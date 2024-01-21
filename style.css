@@ -45,7 +45,7 @@ a {
 .hero {
     display: block;
     background: linear-gradient(286.83deg, #0ABEEB -1.55%, #0F26F7 100%);
-    height: 50vh;
+    height: 35vh;
     color: white;
     padding: 2em;
     text-align: center;
@@ -58,3 +58,14 @@ a {
     justify-content: center;
 }
 
+.services {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.services .column {
+    padding: 1em;
+}
