@@ -23,6 +23,7 @@ p {
     background: linear-gradient(286.83deg, #0ABEEB -1.55%, #0F26F7 100%);
     height: 50vh;
     color: white;
+    padding: 2em;
 }
 
 .hero h1 {
