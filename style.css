@@ -23,10 +23,24 @@ a {
     color: white;
 }
 
-.button a {
+.button-primary {
     text-decoration: none;
-
+    border: solid 2px white;
+    border-radius: 8px;
+    color: #1f2937;
+    background: white;
+    padding: 10px 20px;
+    margin: 10px;
 }
+
+.button-secondary {
+    text-decoration: none;
+    border: solid 2px white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin: 10px
+}
+
 
 .hero {
     display: block;
@@ -37,4 +51,10 @@ a {
     text-align: center;
 }
 
+.hero .cta-buttons {
+    margin-top: 3em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
