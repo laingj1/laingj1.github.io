@@ -6,10 +6,7 @@ body {
 h1 {
     font-size: 56px;
     margin: 56px 0px 20px 0px;
-<<<<<<< HEAD
     font-weight: 400;
-=======
->>>>>>> 93d755d29ffe865292f30b057dbd3b2ee7ee1b0f
 }
 
 h2 {
@@ -22,7 +19,6 @@ p {
     margin: 16px 0px 8px 0px;
 }
 
-<<<<<<< HEAD
 a {
     color: white;
 }
@@ -34,20 +30,10 @@ a {
 
 .hero {
     display: block;
-=======
-.hero {
-    position: relative;
->>>>>>> 93d755d29ffe865292f30b057dbd3b2ee7ee1b0f
     background: linear-gradient(286.83deg, #0ABEEB -1.55%, #0F26F7 100%);
     height: 50vh;
     color: white;
     padding: 2em;
-<<<<<<< HEAD
-=======
-}
-
-.hero h1 {
->>>>>>> 93d755d29ffe865292f30b057dbd3b2ee7ee1b0f
     text-align: center;
 }
 
