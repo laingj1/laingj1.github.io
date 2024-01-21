@@ -3,6 +3,16 @@ body {
     margin: 0;
 }
 
+nav a {
+    text-decoration: none;
+    padding: 0.2em 1.5em;
+    font-size: 18px;
+}
+
+nav a:hover {
+    border-bottom: solid 1px white;
+}
+
 h1 {
     font-size: 56px;
     margin: 56px 0px 20px 0px;
