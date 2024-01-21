@@ -1,6 +1,6 @@
 body {
     font-family: "Inter", sans-serif;
-    padding: 0;
+    margin: 0;
 }
 
 
@@ -20,13 +20,14 @@ p {
 }
 
 .hero {
+    position: relative;
     background: linear-gradient(286.83deg, #0ABEEB -1.55%, #0F26F7 100%);
     height: 50vh;
+    color: white;
 }
 
 .hero h1 {
     text-align: center;
-
 }
 
 
